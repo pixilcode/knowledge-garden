@@ -1,1 +1,12 @@
+# Taken from <https://kristoffer.dev/blog/obsidian-gitignore/>
+
+# Ensure consistent line endings
 * text=auto eol=lf
+*.md text
+
+# Treat binary files properly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

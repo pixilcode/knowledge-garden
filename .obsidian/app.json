@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "quartz/",
+    "docs/"
+  ]
+}
