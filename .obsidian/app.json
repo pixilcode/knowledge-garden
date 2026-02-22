@@ -6,6 +6,8 @@
   "userIgnoreFilters": [
     "node_modules/",
     "quartz/",
-    "docs/"
-  ]
+    "docs/",
+    "public/"
+  ],
+  "newLinkFormat": "shortest"
 }
