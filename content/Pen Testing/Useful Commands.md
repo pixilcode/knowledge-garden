@@ -1,3 +1,4 @@
+```bash
 # === Getting Started ===
 
 # --- Connecting Using VPN ---
@@ -37,3 +38,4 @@ nmap -sV -sC -p- 10.129.42.253
 
 # ftp into a server
 ftp 10.129.42.253
+```
