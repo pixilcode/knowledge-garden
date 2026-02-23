@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "text to types :: knowledge garden",
-    pageTitleSuffix: "",
+    pageTitle: "text to types :: digital garden",
+    pageTitleSuffix: " - text to types",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {},
+    analytics: null,
     locale: "en-US",
-    baseUrl: "knowledge-garden.texttotypes.com",
+    baseUrl: "digital-garden.texttotypes.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
