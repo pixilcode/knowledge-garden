@@ -9,5 +9,6 @@
     "docs/",
     "public/"
   ],
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "/"
 }

@@ -3,8 +3,9 @@ title: Link - Against Query Based Compilers
 tags:
   - link
   - blog-article
-  - prog-lang
-  - query-compiler
+  - topic-prog-lang
+  - topic-query-compiler
+  - topic-pl-architecture
 date: 2026-03-04
 ---
 **Link: [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)**

@@ -3,10 +3,10 @@ title: Link - nimi sin
 tags:
   - link
   - april-cools
-  - software-development
-  - learning
+  - topic-software-development
+  - topic-learning
   - blog-article
-  - natural-languages
+  - topic-natural-languages
 ---
 **Link: [nimi sin](https://nora.codes/post/nimi-sin/)**
 

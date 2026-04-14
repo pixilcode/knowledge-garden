@@ -3,7 +3,7 @@ title: Link - Breaking Free
 tags:
   - link
   - negative
-  - internet-degradation
+  - topic-internet-degradation
 date: 2026-03-23
 ---
 **Link: [Breaking Free](https://www.forbrukerradet.no/breakingfree) and [Report PDF](https://storage02.forbrukerradet.no/media/2026/02/breaking-free-pathways-to-a-fair-technological-future.pdf)**

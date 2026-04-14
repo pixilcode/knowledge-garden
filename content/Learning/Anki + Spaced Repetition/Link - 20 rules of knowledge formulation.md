@@ -2,8 +2,8 @@
 title: Link - 20 rules of knowledge formulation
 tags:
   - link
-  - learning
-  - anki
+  - topic-learning
+  - topic-anki
   - wip
 date: 2026-03-24
 ---

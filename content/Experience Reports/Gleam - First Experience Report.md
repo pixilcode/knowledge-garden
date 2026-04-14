@@ -1,9 +1,11 @@
 ---
 title: Gleam - First Experience Report
 tags:
-  - prog-lang
-  - pl-experience
-  - gleam
+  - topic-prog-lang
+  - topic-pl-experience
+  - topic-gleam
+  - blog-post-draft
+  - experience-report
 date: 2026-03-03
 ---
 **Project:** [`oncmp`](https://github.com/pixilcode/oncmp)

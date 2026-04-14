@@ -3,7 +3,7 @@ title: Link - Why books don't work
 tags:
   - link
   - blog-article
-  - learning
+  - topic-learning
 ---
 **Link: [Why books don't work](https://andymatuschak.org/books/)**
 

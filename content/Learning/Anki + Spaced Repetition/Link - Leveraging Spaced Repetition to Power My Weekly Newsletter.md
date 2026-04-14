@@ -3,9 +3,9 @@ title: Link - Leveraging Spaced Repetition to Power My Weekly Newsletter
 tags:
   - link
   - april-cools
-  - learning
+  - topic-learning
   - blog-article
-  - anki
+  - topic-anki
 ---
 **Link: [Leveraging Spaced Repetition to Power My Weekly Newsletter](https://news.alvaroduran.com/p/leveraging-spaced-repetition-to-power)**
 

@@ -2,8 +2,8 @@
 title: Debugging an LSP Server
 tags:
   - tips
-  - prog-lang
-  - lsp
+  - topic-prog-lang
+  - topic-lsp
 date: 2026-03-11
 ---
 - **Viewing LSP logging** - to view the logs of an LSP server, open the "Output" tab on the bottom panel, then select the source as the name of the LSP server

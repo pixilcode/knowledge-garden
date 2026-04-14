@@ -1,8 +1,8 @@
 ---
 title: Git Hooks
 tags:
-  - software-development
-  - git
+  - topic-software-development
+  - topic-git
 date: 2026-03-24
 ---
 If you want to perform actions on commit, add scripts to `.git/hooks/`. Examples of scripts that can be added are already found in that directory.

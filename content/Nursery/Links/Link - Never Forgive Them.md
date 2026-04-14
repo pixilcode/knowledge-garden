@@ -4,10 +4,9 @@ draft: "true"
 tags:
   - link
   - blog-article
-  - opinion
-  - privacy
+  - topic-privacy
   - negative
-  - internet-degradation
+  - topic-internet-degradation
 date: 2026-02-23
 ---
 **Link: [Never Forgive Them](https://www.wheresyoured.at/never-forgive-them/)**

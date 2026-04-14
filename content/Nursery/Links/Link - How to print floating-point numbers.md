@@ -5,6 +5,7 @@ tags:
   - blog-article
   - algorithm
   - reference
+  - topic-floating-point
 date: 2026-03-24
 ---
 **Link: [How to print floating-point numbers](https://michael-koller-91.github.io/blog/2023-03-26-how-to-print-floating-point-numbers.html)**
